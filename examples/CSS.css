@@ -1,0 +1,19 @@
+tag.class { }
+
+/* 
+	Comment
+*/
+
+.class:before {
+		color: #657b83;
+		border: 1px solid white;
+		padding: 10px;
+		padding-top: 30px;
+}
+
+#id {
+	text-transform: uppercase;
+	font-weight: bold;
+	padding-top: 19px;
+	transition: all 1s;
+}
