@@ -2,7 +2,8 @@
     "identifier": "at.proconsult.lightray",
     "name": "Lightray",
     "organization": "proconsult.at gmbh",
-    "description": "Homage to Solarized for Nova.",
+    "description": "Homage to Solarized Light for Nova.",
     "version": "1.0",
+    "bugs": "https://github.com/mmackh/Lightray/issues",
     "categories": ["themes"]
 }
